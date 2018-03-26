@@ -1,0 +1,99 @@
+html { 
+  background: url("/img/catpaws.png" ) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bodystuff {
+	background-image: url('/img/catpaws.png'), url('/img/browngrainy.jpg'));
+    background-color: #cccccc;
+}
+
+.headerone {
+	text-align: center;
+	padding:0px;
+	color: red;
+}
+
+.darkbox {
+	background-color: black;
+}
+
+.catimg{
+	 height: 500px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.centerh1{
+	text-align: center;
+	
+}
+
+
+
+.catbutton {
+	
+	
+    margin-left: auto;
+    margin-right: auto;
+	display: inline-block;
+	
+}
+   
+      .catbutton:hover{
+      opacity: 0.3;
+      }  
+      
+ .catbutton:hover {
+	
+	
+	 margin-left: auto;
+    margin-right: auto;
+	display: inline-block;
+        background: url(/WEB-INF/img/Sleeping-Cat-Button2.png") no-repeat;
+   		
+    }
+    
+    
+    #Library {
+    display: inline-block;
+    height: 70px;
+    width: 120px;
+}
+
+#Library:hover {
+     opacity: 0.1;
+      background: url("/img/Lick-Cat-Button.png") no-repeat;
+   
+    height: 70px;
+    width: 120px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+		
+		#test:hover{
+		 opacity: 0.3;
+		}
+		
+		#test{
+		
+    height: 70px;
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     border: 15px solid green;
+    padding: -25px;
+      border-radius: 80px;
+}
